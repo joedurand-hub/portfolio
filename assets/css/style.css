@@ -1195,8 +1195,22 @@ section {
   margin: 0 0 40px 0;
 }
 
+#footer .container .calendly {
+  background: #0563bb;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+#footer .container .calendly:hover {
+  background: #0678e3;
+}
+
 #footer .social-links {
   margin: 0 0 40px 0;
+  margin-top: 20px;
 }
 
 #footer .social-links a {
